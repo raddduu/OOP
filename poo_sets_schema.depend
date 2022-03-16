@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647460146 source:c:\users\radu\desktop\cbdl\poo_sets_schema\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
